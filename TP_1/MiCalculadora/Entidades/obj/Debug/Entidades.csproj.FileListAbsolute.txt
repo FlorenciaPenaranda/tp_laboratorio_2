@@ -1,0 +1,7 @@
+C:\Users\Franor SRL\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Franor SRL\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Franor SRL\TP_1\MiCalculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Franor SRL\TP_1\MiCalculadora\Entidades\bin\Debug\Entidades.exe
+C:\Users\Franor SRL\TP_1\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franor SRL\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.exe
+C:\Users\Franor SRL\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
