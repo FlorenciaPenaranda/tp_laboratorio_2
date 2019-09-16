@@ -21,48 +21,28 @@ namespace MiCalculadora
         }
 
         #region controladores
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+
         private void BtnOperar_Click(object sender, EventArgs e)
         {
             lblResultado.Text = Operar(txtNumero1.Text, txtNumero2.Text, comboBox1.Text).ToString();
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+
         private void BtnLimpiar_Click(object sender, EventArgs e)
         {
             Limpiar();
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+
         private void BtnCerrar_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+
         private void BtnConvertirABinario_Click(object sender, EventArgs e)
         {
             Numero number = new Numero(lblResultado.Text);
             lblResultado.Text = number.DecimalBinario(lblResultado.Text);
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+
         private void BtnConvertirADecimal_Click(object sender, EventArgs e)
         {
             Numero number = new Numero(lblResultado.Text);
@@ -73,12 +53,12 @@ namespace MiCalculadora
 
         #region metodos limpiar/operar
         /// <summary>
-        /// 
+        /// Recibe tres atributos del tipo string y realiza la operacion de los atributos.
         /// </summary>
         /// <param name="num1"></param>
         /// <param name="num2"></param>
         /// <param name="operador"></param>
-        /// <returns></returns>
+        /// <returns>Retorna el resultado de la operacion</returns>
         public static double Operar(string num1, string num2, string operador)
         {
             Numero numero1 = new Numero(num1);
@@ -87,7 +67,7 @@ namespace MiCalculadora
             return Calculadora.Operar(numero1, numero2, operador);
         }
         /// <summary>
-        /// 
+        /// borra los datos de los TextBox, ComboBox y Label de la pantalla.
         /// </summary>
         public void Limpiar()
         {

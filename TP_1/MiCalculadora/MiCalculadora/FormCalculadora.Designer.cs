@@ -144,6 +144,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormCalculadora";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Florencia Peñaranda del curso 2ºD";
             this.ResumeLayout(false);
             this.PerformLayout();
