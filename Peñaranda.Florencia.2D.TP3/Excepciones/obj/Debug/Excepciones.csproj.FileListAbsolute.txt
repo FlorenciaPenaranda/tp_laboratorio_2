@@ -1,0 +1,6 @@
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Excepciones\bin\Debug\ClassLibrary1.dll
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Excepciones\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Excepciones\obj\Debug\ClassLibrary1.dll
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Excepciones\obj\Debug\ClassLibrary1.pdb
