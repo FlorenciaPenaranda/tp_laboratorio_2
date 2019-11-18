@@ -11,3 +11,16 @@ C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Clases
 C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\EntidadesAbstractas.pdb
 C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
 C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\ClassLibrary1.dll
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

@@ -8,7 +8,9 @@ namespace Excepciones
 {
     public class AlumnoRepetidoException : Exception
     {
-        //private const string mensajeError = "Alumno repetido";
+        /// <summary>
+        /// Usa el constructor base para mostrar un mensaje de error
+        /// </summary>
         public AlumnoRepetidoException()
             : base("Alumno repetido")
         {

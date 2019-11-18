@@ -8,25 +8,42 @@ namespace Excepciones
 {
     public class DniInvalidoException : Exception
     {
-
-        private const string mensajeError = "DNI inválido";
+        /// <summary>
+        /// Usa el constructor base para mostrar un mensaje de error
+        /// </summary>
         public DniInvalidoException()
-            : base(mensajeError)
+            : base("DNI inválido")
         {
 
         }
+
+        /// <summary>
+        /// Usa al constructor de la clase base que resibe una excepcion para mostrar un mensaje de error
+        /// </summary>
+        /// <param name="e">Excepcion recibida</param>
         public DniInvalidoException(Exception e)
-            : base(mensajeError, e)
+            : base("DNI inválido", e)
         {
 
         }
+
+        /// <summary>
+        /// Usa el constructor base qe recibe un string para mostrar un mensaje de error
+        /// </summary>
+        /// <param name="mensaje">Mensaje de error</param>
         public DniInvalidoException(string mensaje)
-            : base(mensaje)
+            : base("DNI inválido")
         {
 
         }
+
+        /// <summary>
+        /// Usa al constructor de la clase base que resibe una excepcion y un string para mostrar un mensaje de error
+        /// </summary>
+        /// <param name="mensaje">Mensaje de error</param>
+        /// <param name="e">Excepcion recibida</param>
         public DniInvalidoException(string mensaje, Exception e)
-            : base(mensaje, e)
+            : base("DNI inválido", e)
         {
 
         }

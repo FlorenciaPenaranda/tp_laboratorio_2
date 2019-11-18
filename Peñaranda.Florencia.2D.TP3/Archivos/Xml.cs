@@ -11,6 +11,12 @@ namespace Archivos
 {
     public class Xml<T> : IArchivo<T>
     {
+        /// <summary>
+        /// Lee un objeto mediante Deserialización
+        /// </summary>
+        /// <param name="archivo">ruta de archivo</param>
+        /// <param name="datos">datos a leer</param>
+        /// <returns>retorna true si logro leer los datos, caso contrario, lanza una excepcion</returns>
         public bool Leer(string archivo, out T datos)
         {
             bool retorno = false;
@@ -41,18 +47,24 @@ namespace Archivos
 
         }
 
+        /// <summary>
+        /// Convierte un objeto en memoria en una secuencia lineal de bytes.
+        /// </summary>
+        /// <param name="archivo">ruta de archivo</param>
+        /// <param name="datos">datos a guardar</param>
+        /// <returns>retorna true si logro guardar los datos, caso contrario, lanza una excepcion</returns>
         public bool Guardar(string archivo, T datos)
         {
             bool retorno = false;
 
             if (!(archivo is null))
             {
-                XmlWriter writer = null;
+                XmlWriter escritor = null;
                 try
                 {
-                    writer = new XmlTextWriter(archivo, Encoding.UTF8);
+                    escritor = new XmlTextWriter(archivo, Encoding.UTF8);
                     XmlSerializer serializer = new XmlSerializer(typeof(T));
-                    serializer.Serialize(writer, datos);
+                    serializer.Serialize(escritor, datos);
                     retorno = true;
                 }
                 catch (Exception)
@@ -61,9 +73,9 @@ namespace Archivos
                 }
                 finally
                 {
-                    if (!(writer is null))
+                    if (!(escritor is null))
                     {
-                        writer.Close();
+                       escritor.Close();
                     }
                 }
 

@@ -49,11 +49,29 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="TestUnitarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Archivos\Archivos.csproj">
+      <Project>{00da85b1-2dcc-4530-9d32-20996ea610b5}</Project>
+      <Name>Archivos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClasesInstanciables\ClasesInstanciables.csproj">
+      <Project>{42b2eec6-a226-40a9-9380-bf21fc332973}</Project>
+      <Name>ClasesInstanciables</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntidadesAbstractas\EntidadesAbstractas.csproj">
+      <Project>{ed732b8a-65fa-4dc2-b566-8aaab92074fe}</Project>
+      <Name>EntidadesAbstractas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
+      <Project>{b77774a7-5e49-43bf-8a8b-433377927c4c}</Project>
+      <Name>Excepciones</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

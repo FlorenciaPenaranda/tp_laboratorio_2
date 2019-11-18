@@ -8,7 +8,10 @@ namespace Excepciones
 {
     public class ArchivosException : Exception
     {
-        //private const string mensajeError = "Error con el archivo";
+        /// <summary>
+        ///  Usa al constructor de la clase base que resibe una excepcion para mostrar un mensaje de error
+        /// </summary>
+        /// <param name="innerException">Excepcion recibida</param>
         public ArchivosException(Exception innerException)
              : base("Error con el archivo", innerException)
         {
