@@ -1,0 +1,10 @@
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\bin\Debug\Peñaranda.Florencia.2D.exe.config
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\bin\Debug\Peñaranda.Florencia.2D.exe
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\bin\Debug\Peñaranda.Florencia.2D.pdb
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\obj\Debug\Peñaranda.Florencia._2D.FrmPpal.resources
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\obj\Debug\Peñaranda.Florencia._2D.Properties.Resources.resources
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\obj\Debug\Peñaranda.Florencia.2D.exe
+C:\Users\Franor SRL\Desktop\UTN\Peñaranda.Florencia.2D\Peñaranda.Florencia.2D\obj\Debug\Peñaranda.Florencia.2D.pdb
