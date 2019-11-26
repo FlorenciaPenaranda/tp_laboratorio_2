@@ -1,0 +1,27 @@
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\ClassLibrary1.dll
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Franor SRL\Desktop\utn_prog_y_lab_II\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\ClassLibrary1.dll
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\ClassLibrary1.pdb
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Franor SRL\Desktop\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.dll
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\Archivos.dll
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\ClassLibrary1.dll
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\bin\Debug\ClassLibrary1.pdb
+D:\gitFlor\repaso\tp_laboratorio_2\Peñaranda.Florencia.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
